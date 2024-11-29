@@ -1,0 +1,22 @@
+/* css styles */
+
+h4.navigation {
+  margin-top: 0px;
+}
+
+.sidebar nav[role="doc-toc"] ul > li > a.active, 
+.sidebar nav[role="doc-toc"] ul > li > ul > li > a.active {
+  border-left: 1px solid #C00000; /* Adds a blue border on the left of active TOC links */
+  color: #C00000 !important; /* Ensures the text color is blue */
+}
+
+a {
+  color: darkgrey;
+  text-decoration: none;
+}
+
+.subtitle.lead {
+  font-size: 1rem;
+  margin-top: 10px;
+}
+

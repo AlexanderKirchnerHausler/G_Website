@@ -1,0 +1,65 @@
+---
+title: "Alexander Kirchner-Häusler"
+subtitle: Program-Specific Assistant Professor at the Institute for the Future of Human Society (IFOHS) at Kyoto University. <br><br> Affiliated researcher at the University of Sussex and KU Leuven. 
+image: images/Picture1.png
+about:
+  template: trestles
+  links:
+    - icon: IFOHS
+      text: IFOHS
+      href: https://ifohs.kyoto-u.ac.jp/en/archives/member/34714
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/alexander-kirchner-h%C3%A4usler-phd-222a54159/      
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/KirchnerHausler
+    - icon: researchgate
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Alexander-Kirchner-Haeusler?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19
+    - icon: orcid
+      text: Orcid
+      href: https://orcid.org/0000-0002-2406-7635
+---
+
+<center>
+
+<h4 class="navigation">
+
+[Research](index.qmd) \| [Publications](publications.qmd) \| [Presentations](presentations.qmd)
+
+</center>
+
+</h4>
+
+<br> **Kirchner-Häusler, A.**, Uskul, A.K., Wohl, M., Orazani, N., Rodríguez-Bailón, R., Cross, S. E., Gezici-Yalçın, M., Harb, C., Husnu, S., Kafetsios, K., Kateri, E., Matamoros-Lima, J., Miniesy, R., Na, J., Pagliaro, S., Psaltis, C., Rabie, D., Teresi, M., Uchida, Y., & Vignoles, V.L. (2024). Assessing the Role of Honor Culture and Image Concerns in Impeding Apologies \[Manuscript under review at the European Journal of Social Psychology\]. School of Psychology, University of Sussex.
+
+Vignoles, V. L.\*, **Kirchner-Häusler, A.**\*, Uskul, A. K.\*, Cross, S. E., Na, J., Uchida, Y., Rodriguez-Bailón, R., Bossom, I.R.L., Castillo, V. A., Gezici Yalçın, M., Harb, C., Husnu, S., Ishii, K., Jin, S., Karamaouna, P., Kafetsios, K., Kateri, E., Matamoros-Lima, J., Miniesy, R., ... Wohl, J.A. (2024). Are Mediterranean Societies 'Cultures of Honor'? Prevalence and Implications of a Cultural Logic of Honor Across Three World Regions \[Manuscript accepted at Personality and Social Psychology Bulletin\]. School of Psychology, University of Sussex. *\* Shared first authorship*
+
+Uskul, A. K., Hanel, P., **Kirchner-Häusler, A.**, Jin, S., Vignoles, V. L., Castillo, V. A., Cross, S. E., Yalçın, M.J., Harb, C., Husnu, S., Ishii, K., Jin, S., Karamouna, P., Kafetsios, K., Kateri, E., Matamaros-Lima, J., Liu, D., Miniesy, R., Na, J., Özkan, Z., Pagliaro, S., Psaltis, C., Rabie, D., Rodríguez-Bailón, R., Teresi, M., & Uchida, Y. (2024). Differences and Similarities in Psychological Characteristics between Cultural Groups Circum Mediterranean. \[Manuscript accepted at Journal for Personality and Social Psychology\]. School of Psychology, University of Sussex.
+
+Uskul, A.K., Cila, J., Gul, P., **Kirchner-Häusler, A.**, & Hubena, B. (2024). Honor, Acculturation and Well-being: Evidence from the UK and Canada. British Journal of Social Psychology, 63, 1701-1724. [Full article](publications/Uskul et al. - 2024 - Honour, acculturation and well‐being Evidence from the UK and Canada.pdf)
+
+**Kirchner-Häusler, A.**, Schönbrodt, F. D., Uskul, A. K., Vignoles, V. L., Rodríguez-Bailón, R., Castillo, V. A., Cross, S. E., Gezici-Yalçın, M., Harb, C., Husnu, S., Ishii, K., Karamaouna, P., Kafetsios, K., Kateri, E., Matamoros-Lima, J., Miniesy, R., Na, J., Özkan, Z., Pagliaro, S., Psaltis, C., Rabie, D., Teresi, M., & Uchida, Y. (2024). Proximal and distal honor fit and subjective well-being in the Mediterranean region. Journal of Personality, 92(1), 38-54. [Full article](publications/Kirchner‐Häusler et al. - 2024 - Proximal and distal honor fit and subjective well‐being in the Mediterranean region.pdf)
+
+Scharbert, J., Humberg, S., Kroencke, L., Reiter, T., Sakel, S., Ter Horst, J., ... **Kirchner-Häusler, A.**, ... & Back, M. D. (2024). Psychological well-being in Europe after the outbreak of war in Ukraine. Nature Communications, 15(1), 1202. [Full article](publications/Scharbert et al. - 2024 - Psychological well-being in Europe after the outbreak of war in Ukraine.pdf)
+
+**Kirchner-Häusler, A.**, De Leersnyder, J., Uskul, A. K., Mirzada, F., Vignoles, V. L., Rodríguez-Bailón, R., Castillo, V.A., Cross, S.E., Gezici Yalçın, M., Harb, C., Husnu, S., Ishii, K., Karamaouna, P., Kafetsios, K., Kateri, E., Matamoros-Lima, J., Miniesy, R., Na, J., Özkan, Z., Pagliaro, S., Psaltis, C., Rabie, D., Teresi, M., & Uchida, Y. (2023). Cultural fit of emotions and subjective well-being: Replicating comparative evidence and extending it to the Mediterranean region. Current Research in Ecological and Social Psychology, 5, 100171. [Full article](publications/Kirchner-Häusler et al. - 2023 - Cultural fit of emotions and subjective well-being Replicating comparative evidence and extending it to the Mediterranean region.pdf)
+
+Scharbert, J., Reiter, T., Sakel, S., ter Horst, J., Geukes, K., Gosling, S. D., Harari, G., Kroencke, L., Matz, S., Schoedel, R., Shani, M., Stachl, C., Talaifar, S., Aguilar, N. M. A., Amante, D., Aquino, S. D., Bastias, F., Biesanz, J. C., Bornamanesh, A., **Kirchner-Häusler, A.**, ... & Back, M. D. (2023). A global experience-sampling method study of well-being during times of crisis: The CoCo project. Social and Personality Psychology Compass, 17(10), e12813. [Full article](publications/Scharbert et al. - 2023 - A global experience‐sampling method study of well‐being during times of crisis The CoCo project.pdf)
+
+Uskul, A. K., **Kirchner-Häusler, A.**, Vignoles, V. L., Rodríguez-Bailón, R., Castillo, V. A., Cross, S. E., Gezici Yalçın, M., Harb, C., Husnu, S., Ishii, K., Jin, S., Karamouna, P., Kafetsios, K., Kateri, E., Matamaros-Lima, J., Liu, D., Miniesy, R., Na, J., Özkan, Z., Pagliaro, S., Psaltis, C., Rabie, D., Teresi, M., & Uchida, Y. (2023). Neither Eastern nor Western: Patterns of independence and interdependence in Mediterranean societies. Journal of Personality and Social Psychology, 125(3), 471-495. [Full article](publications/Uskul - 2023 - Neither Eastern nor Western Patterns of Independence and.pdf)
+
+Psaltis, C., **Kirchner-Häusler, A.**, Uskul, A.K., Kovras, I., & Eleftheriou, A. (2023). The Role of Honor, Dignity, and Face Values in Transitional Justice Preferences in Post-Conflict Cyprus. Peace and Conflict: Journal of Peace Psychology, 29(3), 294-305. [Full articlep](publications/Psaltis et al. - 2023 - Role of honor, dignity, and face values in transitional justice in postconflict cyprus.pdf)
+
+**Kirchner-Häusler, A.**, & Mesquita, B. (2022). How do happy couples feel? It depends on the culture. Invited contribution to the Character & Context blog of the Society for Personality and Social Psychology.[Full article](https://spsp.org/news/character-and-context-blog/kirchner-hausler-mesquita-culture-couples-satisfaction)
+
+**Kirchner-Häusler, A.**, Boiger, M., Uchida, Y., Higuchi, Y., Uchida, A., & Mesquita, B. (2022). Relatively Happy: The Role of the Positive-to-Negative Affect Ratio in Japanese and Belgian Couples. Journal of Cross-Cultural Psychology, 53(1), 66-86. [Full article](publications/Kirchner-Häusler et al. - 2022 - Relatively Happy The Role of the Positive-to-Negative Affect Ratio in Japanese and Belgian Couples.pdf)
+
+Boiger, M., **Kirchner-Häusler, A.**, Schouten, A., Uchida, Y., & Mesquita, B. (2022). Different bumps in the road: The emotional dynamics of couple disagreements in Belgium and Japan. Emotion, 22(5), 805–819. [Full article](https://lirias.kuleuven.be/retrieve/596308)
+
+Schouten, A., Boiger, M., **Kirchner-Häusler, A.**, Uchida, Y., & Mesquita, B. (2020). Cultural Differences in Emotion Suppression in Belgian and Japanese Couples: A Social Functional Model. Frontiers in Psychology, 11:1048, 1 – 12. [Full article](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01048/full)
+
+**Kirchner, A.**, Boiger, M., Uchida, Y., Norasakkunkit, V., Verduyn, P., & Mesquita, B. (2018). Humiliated fury is not universal: the co-occurrence of anger and shame in the United States and Japan. Cognition and Emotion, 32(6), 1317-1328. [Full article](https://www.tandfonline.com/doi/abs/10.1080/02699931.2017.1414686)
+
+Braun, S., Bark, A. H., **Kirchner, A.**, Stegmann, S., & van Dick, R. (2015). Emails From the Boss—Curse or Blessing? Relations Between Communication Channels, Leader Evaluation, and Employees’ Attitudes. International Journal of Business Communication, 56(1), 50-81. [Full article](https://journals.sagepub.com/doi/abs/10.1177/2329488415597516)

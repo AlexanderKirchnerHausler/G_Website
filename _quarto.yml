@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Alexander Kirchner-Häusler"
+  navbar: false
+    # background: white
+    # right:
+    #   menu:
+    #     - href: index.qmd
+    #       text: Home
+    #     - href: publications.qmd
+    #       text: Publications
+    #     - href: presentations.qmd
+    #       text: Presentations
+
+  
+format:
+  html:
+    fontsize: 0.8em
+    margin-left: 10px
+    css: styles.css
+    toc: false
+    toc-title: " " 
+    grid:
+      body-width: 1000px
+
+editor: visual
+
