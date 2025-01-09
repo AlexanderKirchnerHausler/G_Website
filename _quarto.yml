@@ -24,7 +24,7 @@ format:
     toc: false
     toc-title: " " 
     grid:
-      body-width: 1000px
+      body-width: 1300px
 
 editor: visual
 
