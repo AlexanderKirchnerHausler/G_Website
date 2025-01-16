@@ -14,10 +14,10 @@ about:
     - icon: twitter
       text: Twitter
       href: https://x.com/KirchnerHausler
-    - icon: researchgate
+    - icon: Researchgate
       text: ResearchGate
       href: https://www.researchgate.net/profile/Alexander-Kirchner-Haeusler?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19
-    - icon: orcid
+    - icon: Orcid
       text: Orcid
       href: https://orcid.org/0000-0002-2406-7635
 ---
